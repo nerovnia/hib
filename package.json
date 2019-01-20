@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nerovnia/hib/issues"
   },
-  "homepage": "https://github.com/nerovnia/hib#readme"
+  "homepage": "https://github.com/nerovnia/hib#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
