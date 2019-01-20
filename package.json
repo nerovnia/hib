@@ -1,0 +1,23 @@
+{
+  "name": "hib",
+  "version": "0.0.1",
+  "description": "Home Information Base",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerovnia/hib.git"
+  },
+  "keywords": [
+    "structured",
+    "information"
+  ],
+  "author": "Volodymyr Nerovnia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nerovnia/hib/issues"
+  },
+  "homepage": "https://github.com/nerovnia/hib#readme"
+}
